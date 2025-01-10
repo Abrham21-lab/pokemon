@@ -14,6 +14,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="NewFolder\**" />
+    <Content Remove="NewFolder\**" />
+    <EmbeddedResource Remove="NewFolder\**" />
+    <None Remove="NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Remove="Service\CodeFile.cs" />
   </ItemGroup>
 
@@ -25,10 +32,6 @@
     <ContainerEnvironmentVariable Include="ASPNETCORE_HTTPS_PORTS">
       <Value>8081</Value>
     </ContainerEnvironmentVariable>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="pokemon\Models\" />
   </ItemGroup>
 
   <ItemGroup>

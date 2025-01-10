@@ -35,3 +35,4 @@ C:\Users\Abrsh\source\repos\ElectiveWebApplication\obj\Debug\net8.0\refint\Elect
 C:\Users\Abrsh\source\repos\ElectiveWebApplication\obj\Debug\net8.0\ElectiveWebApplication.pdb
 C:\Users\Abrsh\source\repos\ElectiveWebApplication\obj\Debug\net8.0\ElectiveWebApplication.genruntimeconfig.cache
 C:\Users\Abrsh\source\repos\ElectiveWebApplication\obj\Debug\net8.0\ref\ElectiveWebApplication.dll
+C:\Users\Abrsh\source\repos\ElectiveWebApplication\obj\Debug\net8.0\ElectiveWebApplication.sourcelink.json
